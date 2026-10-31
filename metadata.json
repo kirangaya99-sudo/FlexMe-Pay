@@ -1,0 +1,6 @@
+{
+  "name": "FlexMe Pay - PlayStore & Gaming Recharge",
+  "description": "Secure Google Play redeem codes, TargetSMP server passes, and instant UPI collection desk with direct owner confirmation and secret key security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
